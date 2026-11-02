@@ -15,7 +15,7 @@ function App() {
       <Header />
       <h1>헬로우 리액트</h1>
       <Body />
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }
